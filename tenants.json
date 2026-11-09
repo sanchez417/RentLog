@@ -1,0 +1,20 @@
+[
+  {
+    "roomNumber": "101",
+    "moveInDate": "2026-11-08",
+    "username": "tenant1",
+    "password": "password123",
+    "userID": "T001",
+    "fullName": "Juan Dela Cruz",
+    "contactNumber": "09123456789"
+  },
+  {
+    "roomNumber": "102",
+    "moveInDate": "2026-09-11",
+    "username": "tenant2",
+    "password": "tenant2pass",
+    "userID": "T002",
+    "fullName": "Althea Sanchez",
+    "contactNumber": "09123456789"
+  }
+]

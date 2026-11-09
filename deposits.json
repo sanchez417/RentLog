@@ -1,0 +1,14 @@
+[
+  {
+    "tenantID": "T001",
+    "securityDeposit": 5000.0,
+    "advancePayment": 5000.0,
+    "depositStatus": "Held"
+  },
+  {
+    "tenantID": "T002",
+    "securityDeposit": 5000.0,
+    "advancePayment": 4000.0,
+    "depositStatus": "Held"
+  }
+]

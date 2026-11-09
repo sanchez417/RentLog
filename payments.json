@@ -1,0 +1,11 @@
+[
+  {
+    "paymentID": "P002",
+    "tenantID": "T002",
+    "amountPaid": 5500.0,
+    "paymentMethod": "Cash",
+    "remainingBalance": 0.0,
+    "paymentStatus": "Paid",
+    "paymentDate": "2026-09-12"
+  }
+]

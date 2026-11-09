@@ -1,0 +1,17 @@
+[
+  {
+    "roomNumber": "101",
+    "monthlyRentalPrice": 5000.0,
+    "roomStatus": "Occupied"
+  },
+  {
+    "roomNumber": "102",
+    "monthlyRentalPrice": 5500.0,
+    "roomStatus": "Occupied"
+  },
+  {
+    "roomNumber": "201",
+    "monthlyRentalPrice": 6000.0,
+    "roomStatus": "Vacant"
+  }
+]
